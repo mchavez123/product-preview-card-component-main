@@ -9,13 +9,13 @@ body {
   width: 75%;
   height: 75%;
   background-color: hsl(30, 38%, 92%);
-  height: 40rem;
   border-radius: 2px;
   box-shadow: 3px 15px 15px 6px #d9dbda;
 }
 .card {
-  margin: 9% 10% 11% 35%;
-  width: 525px;
+  width: 38%;
+  height: 50%;
+  margin: 10% 10% 10% 30%;
   display: flex;
   border-radius: 6px;
 }
@@ -49,6 +49,7 @@ body {
   padding-right: 35px;
 }
 .content {
+  display: flex;
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
   color: hsl(228, 12%, 48%);
@@ -56,6 +57,7 @@ body {
   text-align: start;
 }
 .price {
+  /* width: 30%; */
   font-family: "Fraunces", sans-serif;
   display: flex;
   font-size: 28px;
@@ -72,7 +74,6 @@ body {
 }
 button {
   display: flex;
-
   height: 45px;
   background-color: hsl(158, 36%, 37%);
   color: white;
