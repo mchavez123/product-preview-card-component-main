@@ -12,10 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mchavez123/product-preview-card-component-main]
-- Live Site URL: [https://mchavez123.github.io/product-preview-card-component-main/]
+- Solution URL: https://github.com/mchavez123/product-preview-card-component-main
+- Live Site URL: https://mchavez123.github.io/product-preview-card-component-main/
 
 ## My process
 
@@ -74,6 +70,6 @@ This project was great practice, and I would love to keep developing my mapping 
 ### Useful resources
 
 - https://www.w3schools.com - This helped me for all the CSS styling.
-- [https://www.developer.mozilla.org] - Default used website for looking up elements and properties and looking at their specifications.
+- https://www.developer.mozilla.org - Default used website for looking up elements and properties and looking at their specifications.
 
 
