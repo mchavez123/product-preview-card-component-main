@@ -73,7 +73,7 @@ This project was great practice, and I would love to keep developing my mapping 
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - This helped me for all the CSS styling.
-- [Example resource 2](https://www.developer.mozilla.org) - Default used website for looking up elements and properties and looking at their specifications.
+- [https://www.w3schools.com] - This helped me for all the CSS styling.
+- [https://www.developer.mozilla.org] - Default used website for looking up elements and properties and looking at their specifications.
 
 
